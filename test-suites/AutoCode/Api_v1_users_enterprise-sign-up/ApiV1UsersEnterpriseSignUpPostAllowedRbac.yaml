@@ -19,7 +19,7 @@ testCases:
   inactive: false
 useCategoryAssertion: false
 assertions:
-- '@StatusCode == 200'
+- '@StatusCode == 401'
 cleanup: []
 severity: Major
 category: RBAC
